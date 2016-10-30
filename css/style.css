@@ -1,11 +1,11 @@
 header h1 {
 	color: #212121;
-	font: bold 50pt serif;
+	font: bold 20pt/18pt serif;
 	margin-left: 2px;
 }
 
 article p {
-	border: 50px dotted #BBDEFB;
+	border: 2px dotted #BBDEFB;
 	padding: 20px;
 	width: 400px;
 	font: normal 12 pt serif;
