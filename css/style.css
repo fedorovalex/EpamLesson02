@@ -1,3 +1,16 @@
-header h1 {
+header * {
+	display: inline-block;
+	line-height: 50px;
+	vertical-align: middle;
+}
+
+h1 {
 	color: #212121;
 }
+
+img {
+	height: 50px;
+    width: 50px;
+	margin-right: 10px;
+}
+
